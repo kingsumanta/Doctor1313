@@ -1,6 +1,6 @@
 # API Keys
 FOUR_SIM_API_KEY = "813bb15aa036aac78b9fd319165cf7eb"
-OTPDOCTOR_API_KEY = "xupmz5smz7avqrebvh5mo0jzglcxwy9t"
+OTPDOCTOR_API_KEY = "uo4m6gxhzxffcq75ayditgnkj0z3f1um"
 TEMPOTP_API_KEY = "ce281f8ca8910e6b50808d11a87c1"
 TEMPORASMS_API_KEY = "4886507db9a85fe9352c0eef83f5bbbd43"
 
